@@ -1,2 +1,2 @@
 # ogkampro.github.io
-KAMs html websites
+KAMs html websites. Welcome all.
