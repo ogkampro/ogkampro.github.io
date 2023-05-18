@@ -1,0 +1,71 @@
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+html
+{
+	background-color: #FFFF00;
+}
+
+#page
+{
+	z-index: 1;
+	width: 302px;
+	min-height: 131px;
+	padding-left: 40px;
+	padding-right: 38px;
+	padding-bottom: 439px;
+}
+
+#u1686
+{
+	z-index: 2;
+	width: 301px;
+}
+
+#u1686_img
+{
+	padding-right: 1px;
+}
+
+#u1689-4
+{
+	z-index: 4;
+	top: -5px;
+	margin-bottom: -5px;
+}
+
+#u1883-4
+{
+	z-index: 8;
+	margin-left: 8px;
+	top: -6px;
+	margin-bottom: -6px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
